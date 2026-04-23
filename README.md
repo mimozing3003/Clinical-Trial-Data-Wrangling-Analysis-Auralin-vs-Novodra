@@ -35,7 +35,7 @@ This project builds a **robust data cleaning and integration pipeline** to solve
 
 ---
 
-## 🧠 Methodology
+🧠 Methodology
 
 ```mermaid
 flowchart TD
